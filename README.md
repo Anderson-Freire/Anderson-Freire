@@ -81,11 +81,3 @@
 <p align="left">⭐ Se você curtir algum projeto, não esqueça de deixar uma estrela!  <br>💬 Sinta-se à vontade para entrar em contato ou sugerir melhorias!</p>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anderson566788/Anderson566788/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anderson566788/Anderson566788/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Anderson566788/Anderson566788/output/pacman-contribution-graph.svg">
-</picture>
-
-###
