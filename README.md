@@ -1,8 +1,8 @@
-<h2 align="left">👋 Hello! I'm Anderson Freire</h2>
+<h2 align="left">👋 Olá! Eu sou Anderson Freire</h2>
 
 ###
 
-<p align="left">Welcome to my GitHub profile! I'm a developer passionate about technology, continuous learning, and creating practical solutions with code. 🚀</p>
+<p align="left">Bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia, aprendizado contínuo e criação de soluções práticas com código. 🚀</p>
 
 ###
 
@@ -40,6 +40,14 @@
 
 ###
 
+<h2 align="left">📦 Projetos em Destaque</h2>
+
+###
+
+<p align="left">- 📊 API de Gestão de Estoque – Uma API RESTful usando Express.js e MongoDB para controlar produtos, categorias e inventário.  <br>- 📝 API de Contole de Produtos – Uma outra API RESTful usando Prisma e MySQL de gerenciamento e controle de produtos.<br><br>Acesse meus repositórios públicos para ver mais projetos!</p>
+
+###
+
 <h2 align="left">Stats</h2>
 
 ###
@@ -51,6 +59,10 @@
 
 ###
 
+<p align="left">🌱 Aprendendo atualmente<br>- Testes com Jest e Supertest  <br>- Autenticação JWT  <br>- Práticas avançadas com MongoDB e Mongoose</p>
+
+###
+
 <h2 align="left">Social Media</h2>
 
 ###
@@ -59,12 +71,21 @@
   <a href="https://www.linkedin.com/in/anderson-freire-6b5594209/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/1/?pli=1#inbox" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
   <a href="https://www.instagram.com/19anderson_/?next=%2F" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+<p align="left">⭐ Se você curtir algum projeto, não esqueça de deixar uma estrela!  <br>💬 Sinta-se à vontade para entrar em contato ou sugerir melhorias!</p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anderson566788/Anderson566788/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anderson566788/Anderson566788/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Anderson566788/Anderson566788/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
