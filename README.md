@@ -1,71 +1,66 @@
-<h2 align="left">👋 Olá! Eu sou Anderson Freire</h2>
+<div align="center">
 
-###
+# 👋 Olá, eu sou o Anderson
 
-<p align="left">Bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia, aprendizado contínuo e criação de soluções práticas com código. 🚀</p>
+Full-Stack Developer · API Design · Clean Architecture
 
-###
+## 🧭 Sobre mim
 
-<h2 align="left">Techs</h2>
+Desenvolvedor web full-stack com foco em construir sistemas robustos, seguros e bem arquitetados. Gosto de resolver problemas complexos com código limpo, performático e sustentável no longo prazo.
 
-###
+Tenho experiência em todo o ciclo de desenvolvimento — desde a modelagem de APIs RESTful e design de banco de dados até containerização e deploy em produção.
 
-<div align="left" style="display: flex; flex-wrap: wrap; max-width: 600px; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30" alt="typescript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="30" height="30" alt="nestjs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30" alt="nodejs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="30" height="30" alt="jest logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" width="30" height="30" alt="mongodb logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="30" height="30" alt="apache logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30" alt="mysql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" height="30" alt="postgresql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" height="30" alt="docker logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" alt="react logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="30" height="30" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="30" height="30" alt="css3 logo" />
+💼 Aberto a oportunidades — Estou em busca de novos desafios como desenvolvedor back-end ou full-stack.
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+### 🧠 Desenvolvimento
+
+[![Desenvolvimento](https://skillicons.dev/icons?i=php,laravel,cs,dotnet,js,ts,html,css,symfony,nodejs,npm,nestjs,express,angular,react)](https://skillicons.dev)
+
+### ⚙️ Infra e DevOps
+
+[![Infra & DevOps](https://skillicons.dev/icons?i=linux,ubuntu,windows,debian,docker,git,github,githubactions,bash,mysql,postgres,mongodb)](https://skillicons.dev)
+
+### 🛠️ Ferramentas
+
+[![Ferramentas](https://skillicons.dev/icons?i=vscode,visualstudio,phpstorm,rider,postman,figma,ps,stackoverflow)](https://skillicons.dev)
+
+---
+
 </div>
 
-###
+## 🏗️ O que eu construo
 
-<h2 align="left">📦 Projetos em Destaque</h2>
+```
+✦ APIs RESTful estruturadas, versionadas e documentadas
+✦ Sistemas de autenticação e controle de acesso (RBAC, JWT, OAuth2)
+✦ Ambientes containerizados com Docker e orquestração com Kubernetes
+✦ Modelagem e otimização de bancos SQL e NoSQL
+✦ Integrações com serviços externos e arquiteturas orientadas a eventos
+✦ Código limpo seguindo SOLID, DDD e Clean Architecture
+```
 
-###
+[![Linguagens mais usadas](https://helio-github-stats.vercel.app/api/top-langs?username=Anderson-Freire&layout=donut&stats_format=percentages&theme=dark&hide_border=true&border_radius=20&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas)](https://nice-readme.vercel.app/top-langs)
 
-<p align="left" style="max-width: 600px;">- 📊 API de Gestão de Estoque – Uma API RESTful usando Express.js e MongoDB para controlar produtos, categorias e inventário.  <br>- 📝 API de Contole de Produtos – Uma outra API RESTful usando Prisma e MySQL de gerenciamento e controle de produtos.<br><br>Acesse meus repositórios públicos para ver mais projetos!</p>
+[![GitHub Stats](https://helio-github-stats.vercel.app/api?username=Anderson-Freire&theme=dark&hide_border=true&border_radius=20&locale=pt-br&show_icons=true&include_all_commits=true)](https://github.com/Anderson-Freire)
 
-###
+[![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=Anderson-Freire&theme=dark&hide_border=true&border_radius=20&locale=pt_BR)](https://github.com/Anderson-Freire)
 
-<h2 align="left">Stats</h2>
+## 💡 Princípios que guiam meu trabalho
 
-###
+- Clareza antes de esperteza — código que outros entendem é código que dura
+- Segurança por design — não como camada extra, mas como base
+- Infraestrutura como código — ambientes reproduzíveis e rastreáveis
+- Performance consciente — otimizar onde importa, sem prematuridade
 
-<div align="center" style="max-width: 600px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anderson-Freire&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anderson-Freire&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
+## 📫 Redes Sociais
 
-###
+<p align="center">
 
-<p align="left" style="max-width: 600px;">🌱 Aprendendo atualmente<br>- Testes com Jest e Supertest  <br>- Autenticação JWT  <br>- Práticas avançadas com MongoDB e Mongoose</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-freire-6b5594209/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andersongomesfreire566788@gmail.com)
 
-###
-
-<h2 align="left">Social Media</h2>
-
-###
-
-<div align="left" style="max-width: 600px;">
-  <a href="https://www.linkedin.com/in/anderson-freire-6b5594209/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="35" alt="linkedin logo" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.instagram.com/19anderson_/?next=%2F" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="35" alt="instagram logo" />
-  </a>
-</div>
-
-###
-
-<p align="left" style="max-width: 600px;">⭐ Se você curtir algum projeto, não esqueça de deixar uma estrela!  <br>💬 Sinta-se à vontade para entrar em contato ou sugerir melhorias!</p>
-
-###
+</p>
