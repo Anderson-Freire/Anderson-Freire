@@ -18,7 +18,7 @@ Tenho experiência em todo o ciclo de desenvolvimento — desde a modelagem de A
 
 ### 🧠 Desenvolvimento
 
-[![Desenvolvimento](https://skillicons.dev/icons?i=php,laravel,cs,dotnet,js,ts,html,css,symfony,nodejs,npm,nestjs,express,angular,react)](https://skillicons.dev)
+[![Desenvolvimento](https://skillicons.dev/icons?i=php,cs,dotnet,js,ts,html,css,symfony,nodejs,nestjs,angular,react)](https://skillicons.dev)
 
 ### ⚙️ Infra e DevOps
 
